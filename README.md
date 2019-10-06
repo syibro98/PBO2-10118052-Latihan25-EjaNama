@@ -7,7 +7,7 @@
  * KELAS     : PBO2
  * NIM       : 10118052
  * Deskripsi Program : Program ini bertujuan untuk Mengeja nama dengan 
- * menggunakan looping for
+ * menggunakan looping for.
  * 
  */
  ```
